@@ -1,3 +1,9 @@
+## Extra credit: Another developer option from the Developer Options screen
+I chose the "Always show crash dialog" option from the Developer Options screen.
+This option, when enabled, prompts the device to display a dialog box every time an application crashes, asking whether the developer wants to close the app or wait for it to respond.
+Regarding its usefulness for this class this quarter, it can be a valuable debugging tool. Enabling this option allows me to quickly identify and address any application crashes that may occur during development. This can be especially helpful if I'm working on development assignments. It provides immediate feedback on any issues, streamlining the debugging process and ultimately leading to a more stable final product. Therefore, I believe I will definitely use this feature this quarter.
+
+
 # UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
@@ -146,10 +152,5 @@ We will clone and build it from your GitHub repo. We will not get code from any 
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
 
-
-## Extra credit: Another developer option from the Developer Options screen
-I chose the "Always show crash dialog" option from the Developer Options screen.
-This option, when enabled, prompts the device to display a dialog box every time an application crashes, asking whether the developer wants to close the app or wait for it to respond.
-Regarding its usefulness for this class this quarter, it can be a valuable debugging tool. Enabling this option allows me to quickly identify and address any application crashes that may occur during development. This can be especially helpful if I'm working on development assignments. It provides immediate feedback on any issues, streamlining the debugging process and ultimately leading to a more stable final product. Therefore, I believe I will definitely use this feature this quarter.
 
 
